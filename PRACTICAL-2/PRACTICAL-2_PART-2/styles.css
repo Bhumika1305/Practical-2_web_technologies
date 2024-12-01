@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0px;
+    line-height: 2;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%; /* Correct width percentage */
+    margin: 0 auto; /* Center horizontally */
+    padding: 50px; /* Maintain consistent padding */
+}
+
+h1 {
+    text-align: center;
+    color: #69d511;
+}
+
+p {
+    text-align: center;
+    color: #2c3e50;
+    font-size: 20px;
+}
+
+.language {
+    margin: 40px 0;
+    text-align: center;
+}
+
+.language img {
+    width: 75px; /* Resize images */
+    height: 75px;
+    display: block; /* Center image */
+    margin: 0 auto; /* Align image in the center */
+}
+
+.language h2 {
+    color: #34495e;
+    text-align: center;
+}
+
+.language p {
+    margin: 0 auto;
+    text-align: center;
+}
